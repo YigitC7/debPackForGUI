@@ -13,6 +13,5 @@
   <button style="position:absolute; top:5px; right:5px; background-color:#fff; border:none; color:#000; padding:5px 10px; border-radius:3px;" onclick="navigator.clipboard.writeText('dpkg-deb --build (name)')"></button>
   <pre><code>dpkg-deb --build (name)</code></pre>
 </div>
-<br>
-![Alternatif Metin](https://blog.knoldus.com/wp-content/uploads/2019/08/installing-linux-apps-package.png)
+
 
