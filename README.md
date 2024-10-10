@@ -14,4 +14,5 @@
   <pre><code>dpkg-deb --build (name)</code></pre>
 </div>
 <br>
-![deb](https://blog.knoldus.com/wp-content/uploads/2019/08/installing-linux-apps-package.png)
+![Alternatif Metin](https://blog.knoldus.com/wp-content/uploads/2019/08/installing-linux-apps-package.png)
+
