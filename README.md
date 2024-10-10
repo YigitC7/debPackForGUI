@@ -14,4 +14,4 @@
   <pre><code>dpkg-deb --build (name)</code></pre>
 </div>
 <br>
-![MasterHead](https://blog.knoldus.com/wp-content/uploads/2019/08/installing-linux-apps-package.png)
+![deb](https://blog.knoldus.com/wp-content/uploads/2019/08/installing-linux-apps-package.png)
