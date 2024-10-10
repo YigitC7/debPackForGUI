@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Değişkenler
-PACKAGE_NAME="micropad"
+PACKAGE_NAME="program name"
 PACKAGE_VERSION="1.0"
 PACKAGE_DIR="$PACKAGE_NAME-$PACKAGE_VERSION"
 
@@ -19,8 +19,8 @@ Section: utils
 Priority: optional
 Architecture: amd64
 Depends: 
-Maintainer: Yigit <yigitcitak.1817@gmail.com>
-Description: Micropad kurulumu
+Maintainer: you_name <you@email.com>
+Description: 
 EOF
 
 # Masaüstü dosyasını oluştur (boş)
