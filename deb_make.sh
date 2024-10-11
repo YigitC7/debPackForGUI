@@ -28,7 +28,7 @@ cat << EOF > "$PACKAGE_DIR/usr/local/share/applications/$PACKAGE_NAME.desktop"
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Micropad
+Name=Program_name
 Exec=/usr/local/bin/micropad/Main
 Icon=/usr/local/bin/micropad/icon.png
 Terminal=false
